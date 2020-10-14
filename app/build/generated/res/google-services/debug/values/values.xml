@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">647179393874-olcphanuu504lqocq71gqav7nu7hc7fb.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://android-smart-login-mast-f5e05.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">647179393874</string>
+    <string name="google_api_key" translatable="false">AIzaSyCDxe728u9LbpY8f72qDFoHXJDUdsSZrxY</string>
+    <string name="google_app_id" translatable="false">1:647179393874:android:0c3c6b1564275263ebf88b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCDxe728u9LbpY8f72qDFoHXJDUdsSZrxY</string>
+    <string name="google_storage_bucket" translatable="false">android-smart-login-mast-f5e05.appspot.com</string>
+    <string name="project_id" translatable="false">android-smart-login-mast-f5e05</string>
+</resources>

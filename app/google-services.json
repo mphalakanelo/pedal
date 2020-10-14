@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "647179393874",
+    "firebase_url": "https://android-smart-login-mast-f5e05.firebaseio.com",
+    "project_id": "android-smart-login-mast-f5e05",
+    "storage_bucket": "android-smart-login-mast-f5e05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647179393874:android:0c3c6b1564275263ebf88b",
+        "android_client_info": {
+          "package_name": "com.assignment.pedalpalsassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647179393874-olcphanuu504lqocq71gqav7nu7hc7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDxe728u9LbpY8f72qDFoHXJDUdsSZrxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647179393874-olcphanuu504lqocq71gqav7nu7hc7fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647179393874:android:aa1bacc30ba00f16ebf88b",
+        "android_client_info": {
+          "package_name": "com.assignment.rethabile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647179393874-olcphanuu504lqocq71gqav7nu7hc7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDxe728u9LbpY8f72qDFoHXJDUdsSZrxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647179393874-olcphanuu504lqocq71gqav7nu7hc7fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647179393874:android:4e229e86587be8e8",
+        "android_client_info": {
+          "package_name": "studios.codelight.smartlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647179393874-olcphanuu504lqocq71gqav7nu7hc7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDxe728u9LbpY8f72qDFoHXJDUdsSZrxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647179393874-olcphanuu504lqocq71gqav7nu7hc7fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647179393874:android:a331c29243ea7fad",
+        "android_client_info": {
+          "package_name": "studios.codelight.smartloginlibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647179393874-olcphanuu504lqocq71gqav7nu7hc7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDxe728u9LbpY8f72qDFoHXJDUdsSZrxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647179393874-olcphanuu504lqocq71gqav7nu7hc7fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
